@@ -6,7 +6,7 @@
 
  date    : 2021/03/29
 
- update  :
+ update  : 2021/03/30 
 
 ***
 ### Summary
@@ -58,8 +58,11 @@ yarn serve
 ### Document
 
 ***
-### Related : 
+### Blog:
 
+* redisの表示ツールのような機能を Next.jsで作る例
+
+https://note.com/knaka0209/n/na52454311c94
 
 ***
 
